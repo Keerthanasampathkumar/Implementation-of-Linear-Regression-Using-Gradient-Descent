@@ -94,7 +94,6 @@ print("For population = 70,000, we predict a profit of $"+str(round(predict2,0))
 ```
 
 ## Output:
-![linear regression using gradient descent](sam.png)
 ### DATASET:
 ![image](https://github.com/Keerthanasampathkumar/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119477890/3286a82f-ed78-4311-ae84-821c264a4aab)
 ### Plt.profitprediction:
